@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://64.media.tumblr.com/ac6590451131e3ea743f5047249398f1/3817cff61e5ac8c0-ef/s1280x1920/a7563b0f9d3c568fcc3f71bea473fecf57c53462.gifv" width="250">
+<img src="https://media.discordapp.net/attachments/1500614918192365719/1569872969562456154/Untitled1_20261110183303.png?ex=6af509a2&is=6af3b822&hm=1590d0b6af960a65855bdc04f20c18807294b1241984b24f53ebf322ca5f09c1&=&format=webp&quality=lossless" width="250">
 
 <br><br>
 
