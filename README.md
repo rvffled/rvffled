@@ -5,7 +5,7 @@
 <br><br>
 
 <p>
-  $\color{#FFFDD0}{WIP}$ <br>
+  $\color{#FFFDD0}{WORK IN PROGRESS}$ <br>
 </p>
 
 </div>
