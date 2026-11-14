@@ -1,3 +1,5 @@
 <p>
-  $\color{#FFFDD0}{Working on this, come back later}$
+
+  $\color{#C5BDD3}{\text{Working on this, come back later}}$
+
 </p>
