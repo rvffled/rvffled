@@ -6,9 +6,8 @@
 <p align="center">
   <small>
     $\color{#F4A9C6}{\text{image by }}$
-    <a href="https://www.tumblr.com/devourerofglue"><strong>$\color{#F4A9C6}{\text{@devourerofglue}}$</strong></a>
-    $\color{#F4A9C6}{\text{ on tumblr}}$
-  </small>
+    <a href="https://www.tumblr.com/devourerofglue"@devourerofglue on tumblr
+      </small>
 </p>
 
 <p align="center">
