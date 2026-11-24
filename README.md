@@ -1,7 +1,8 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruffledram&label=nerds&color=F7CAC9">
+</p>
 
- ![](https://komarev.com/ghpvc/?username=ruffledram&label=nerds&color=EB889B)
-  
+<p align="center">
   $\color{#F7CAC9}{\text{Ruffy or Fishㅤﾉㅤ17}}$
   <br>
   $\color{#F7CAC9}{\text{i accept all frqㅤ♡ㅤlesbian}}$
