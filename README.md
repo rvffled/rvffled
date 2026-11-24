@@ -4,6 +4,10 @@
   $\color{#F7CAC9}{\text{i accept all frqㅤ♡ㅤlesbian}}$
 </p>
 
+<p align="center">
+  $\color{#F7CAC9}{\text{────── ୨୧ ──────}}$
+</p>
+
 <details>
   <summary align="center">
     $\color{#F7CAC9}{\text{INT + DNI}}$
