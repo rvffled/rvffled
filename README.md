@@ -1,3 +1,13 @@
+ ‎<p align="center">
+  $\color{#F7CAC9}{\text{Ruffy or Fishㅤﾉㅤ17 (14- iwc)}}$
+  <br>
+  $\color{#F7CAC9}{\text{i accept all frqㅤ♡ㅤlesbian}}$
+</p>
+
+<p align="center">
+  $\color{#F7CAC9}{\text{Working on this, come back later}}$
+</p>
+
 <details>
   <summary align="center">
     $\color{#F7CAC9}{\text{AWARDS}}$
@@ -11,7 +21,3 @@
     $\color{#F7CAC9}{\text{] +}}$
   </p>
 </details>
-
-<p align="center">
-  $\color{#F7CAC9}{\text{Working on this, come back later}}$
-</p>
