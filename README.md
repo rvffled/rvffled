@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruffledram&label=nerds&color=F7CAC9">
+  <img src="https://komarev.com/ghpvc/?username=ruffledram&label=nerds&color=c18293">
 </p>
 
 <p align="center">
-  $\color{#F7CAC9}{\text{Ruffy or Fishㅤﾉㅤ17}}$
+  $\color{#c18293}{\text{Ruffy or Fishㅤﾉㅤ17}}$
   <br>
-  $\color{#F7CAC9}{\text{i accept all frqㅤㅤㅤlesbian  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ tenna kin}}$
+  $\color{#c18293}{\text{i accept all frqㅤㅤㅤlesbian  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ tenna kin}}$
 </p>
 
 <p align="center">
-  $\color{#F7CAC9}{\text{────── ୨୧ ──────}}$
+  $\color{#c18293}{\text{────── ୨୧ ──────}}$
 </p>
 
 <table align="center">
@@ -18,15 +18,15 @@
 
 <details>
   <summary>
-    $\color{#F7CAC9}{\text{INT + DNI}}$
+    $\color{#c18293}{\text{INT + DNI}}$
   </summary>
 
   <p align="center">
-    $\color{#F7CAC9}{\text{꒰𐔌 INT ﾉ cool people, 15+,}}$
+    $\color{#c18293}{\text{꒰𐔌 INT ﾉ cool people, 15+,}}$
     <br>
-    $\color{#F7CAC9}{\text{Deltarune, Undertale, STH fans}}$
+    $\color{#c18293}{\text{Deltarune, Undertale, STH fans}}$
     <br><br>
-    $\color{#F7CAC9}{\text{꒰𐔌 DNI ﾉ weirdos, basic DNI criteria, 14 below}}$
+    $\color{#c18293}{\text{꒰𐔌 DNI ﾉ weirdos, basic DNI criteria, 14 below}}$
   </p>
 </details>
 
@@ -37,15 +37,15 @@
 
 <details>
   <summary>
-    $\color{#F7CAC9}{\text{AWARDS}}$
+    $\color{#c18293}{\text{AWARDS}}$
   </summary>
 
   <p align="center">
-    $\color{#F7CAC9}{\text{꒰𐔌 PT’s King Dedede [}}$
+    $\color{#c18293}{\text{꒰𐔌 PT’s King Dedede [}}$
     <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>
-    $\color{#F7CAC9}{\text{] \& PT’s Swapton [}}$
+    $\color{#c18293}{\text{] \& PT’s Swapton [}}$
     <a href="https://github.com/THE-TEMPIST">@THE-TEMPIST</a>
-    $\color{#F7CAC9}{\text{] +}}$
+    $\color{#c18293}{\text{] +}}$
   </p>
 </details>
 
