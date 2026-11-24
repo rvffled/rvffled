@@ -26,7 +26,7 @@
     <br>
     $\color{#F7CAC9}{\text{Deltarune, Undertale, STH fans}}$
     <br><br>
-    $\color{#F7CAC9}{\text{꒰𐔌 DNI ﾉ weirdos, basic DNI criteria, 14 and below}}$
+    $\color{#F7CAC9}{\text{꒰𐔌 DNI ﾉ weirdos, basic DNI criteria, 14 below}}$
   </p>
 </details>
 
