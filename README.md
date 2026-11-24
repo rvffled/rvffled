@@ -1,7 +1,7 @@
  ‎<p align="center">
   $\color{#F7CAC9}{\text{Ruffy or Fishㅤﾉㅤ17 (14- iwc)}}$
   <br>
-  $\color{#F7CAC9}{\text{i accept all frqㅤ♡ㅤlesbian}}$
+  $\color{#F7CAC9}{\text{i accept all frqㅤㅤㅤㅤlesbian}}$
 </p>
 
 <p align="center">
