@@ -8,8 +8,12 @@
   $\color{#F7CAC9}{\text{────── ୨୧ ──────}}$
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+
 <details>
-  <summary align="center">
+  <summary>
     $\color{#F7CAC9}{\text{INT + DNI}}$
   </summary>
 
@@ -22,8 +26,13 @@
   </p>
 </details>
 
+</td>
+  </tr>
+  <tr>
+    <td align="center">
+
 <details>
-  <summary align="center">
+  <summary>
     $\color{#F7CAC9}{\text{AWARDS}}$
   </summary>
 
@@ -35,3 +44,7 @@
     $\color{#F7CAC9}{\text{] +}}$
   </p>
 </details>
+
+</td>
+  </tr>
+</table>
