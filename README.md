@@ -18,6 +18,6 @@
     <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>
     $\color{#F7CAC9}{\text{] \& PT’s Swapton [}}$
     <a href="https://github.com/THE-TEMPIST">@THE-TEMPIST</a>
-    $\color{#F7CAC9}{\text{] +}}$
+    $\color{#F7CAC9}{\text{] }}$
   </p>
 </details>
