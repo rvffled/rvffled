@@ -4,10 +4,6 @@
   $\color{#F7CAC9}{\text{i accept all frqㅤㅤㅤㅤlesbian}}$
 </p>
 
-<p align="center">
-  $\color{#F7CAC9}{\text{Working on this, come back later}}$
-</p>
-
 <details>
   <summary align="center">
     $\color{#F7CAC9}{\text{AWARDS}}$
