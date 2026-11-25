@@ -69,10 +69,21 @@
     $\color{#93302c}{\text{ART CREDITS}}$
   </summary>
 
+ <details>
+  <summary>
+    $\color{#93302c}{\text{ART CREDITS}}$
+  </summary>
+
   <p align="center">
     $\color{#93302c}{\text{꒰𐔌 all artwork on this profile is drawn by me !}}$
     <br>
     $\color{#93302c}{\text{please do not use or repost without permission.}}$
+    <br><br>
+    $\color{#93302c}{\text{check these out for more art stuff}}$
+    <br>
+    <a href="https://twitter.com/rvffled">twitter</a>
+    $\color{#93302c}{\text{ㅤﾉㅤ}}$
+    <a href="https://www.tumblr.com/rvffled">tumblr</a>
   </p>
 </details>
 
