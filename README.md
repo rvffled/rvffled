@@ -66,7 +66,7 @@
 
 <details>
   <summary>
-    $\color{#93302c}{\text{ART CREDITS}}$
+    $\color{#93302c}{\text{ART }}$
   </summary>
 
   <p align="center">
