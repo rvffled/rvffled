@@ -1,11 +1,12 @@
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruffledram&label=nerds&color=93302c">
+  <img src="https://komarev.com/ghpvc/?username=ruffledram&label=nerds&color=167080">
 </p>
 
 <p align="center">
-  $\color{#93302c}{\text{Fishㅤﾉㅤ17}}$
+  $\color{#167080}{\text{Fishㅤ}} \color{#2697AA}{\text{ﾉㅤ}} \color{#55C5D3}{\text{17}}$
   <br>
-  $\color{#93302c}{\text{ewww eww stinky partner}}$
+  $\color{#167080}{\text{ewww}} \color{#2697AA}{\text{eww}} \color{#55C5D3}{\text{stinky}} \color{#288B9E}{\text{partner}}$
 </p>
 
 <p align="center">
@@ -15,11 +16,11 @@
 </p>
 
 <p align="center">
-  $\color{#93302c}{\text{i accept all frqㅤㅤㅤlesbian  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ tenna kin}}$
+  $\color{#167080}{\text{i accept}} \color{#2697AA}{\text{all frqㅤㅤㅤ}} \color{#55C5D3}{\text{lesbianㅤㅤㅤ}} \color{#288B9E}{\text{tenna}} \color{#185D70}{\text{kin}}$
 </p>
 
 <p align="center">
-  $\color{#93302c}{\text{────── ୨୧ ──────}}$
+  $\color{#185D70}{\text{──}} \color{#2697AA}{\text{──}} \color{#55C5D3}{\text{── ୨୧ ──}} \color{#2697AA}{\text{──}} \color{#185D70}{\text{──}}$
 </p>
 
 <table align="center">
@@ -28,15 +29,15 @@
 
 <details>
   <summary>
-    $\color{#93302c}{\text{INT + DNI}}$
+    $\color{#167080}{\text{INT}} \color{#55C5D3}{\text{+}} \color{#185D70}{\text{DNI}}$
   </summary>
 
   <p align="center">
-    $\color{#93302c}{\text{꒰𐔌 INT ﾉ cool people, 15+,}}$
+    $\color{#167080}{\text{꒰𐔌 INT ﾉ}} \color{#2697AA}{\text{cool people,}} \color{#55C5D3}{\text{15+,}}$
     <br>
-    $\color{#93302c}{\text{Deltarune, Undertale, STH fans}}$
+    $\color{#55C5D3}{\text{Deltarune,}} \color{#2697AA}{\text{Undertale,}} \color{#185D70}{\text{STH fans}}$
     <br><br>
-    $\color{#93302c}{\text{꒰𐔌 DNI ﾉ weirdos, basic DNI criteria, 14 below}}$
+    $\color{#167080}{\text{꒰𐔌 DNI ﾉ}} \color{#2697AA}{\text{weirdos,}} \color{#55C5D3}{\text{basic DNI criteria,}} \color{#185D70}{\text{14 below}}$
   </p>
 </details>
 
@@ -47,15 +48,15 @@
 
 <details>
   <summary>
-    $\color{#93302c}{\text{AWARDS}}$
+    $\color{#167080}{\text{AW}} \color{#55C5D3}{\text{AR}} \color{#185D70}{\text{DS}}$
   </summary>
 
   <p align="center">
-    $\color{#93302c}{\text{꒰𐔌 PT’s King Dedede [}}$
+    $\color{#167080}{\text{꒰𐔌 PT’s}} \color{#2697AA}{\text{King}} \color{#55C5D3}{\text{Dedede [}}$
     <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>
-    $\color{#93302c}{\text{] \& PT’s Swapton [}}$
+    $\color{#288B9E}{\text{] \& PT’s}} \color{#55C5D3}{\text{Swapton [}}$
     <a href="https://github.com/THE-TEMPIST">@THE-TEMPIST</a>
-    $\color{#93302c}{\text{] +}}$
+    $\color{#185D70}{\text{] +}}$
   </p>
 </details>
 
@@ -66,18 +67,18 @@
 
 <details>
   <summary>
-    $\color{#93302c}{\text{ART CREDITS}}$
+    $\color{#167080}{\text{ART}} \color{#55C5D3}{\text{CRED}} \color{#185D70}{\text{ITS}}$
   </summary>
 
   <p align="center">
-    $\color{#93302c}{\text{꒰𐔌 all artwork on this profile is drawn by me !}}$
+    $\color{#167080}{\text{꒰𐔌 all artwork}} \color{#2697AA}{\text{on this profile}} \color{#55C5D3}{\text{is drawn}} \color{#288B9E}{\text{by me !}}$
     <br>
-    $\color{#93302c}{\text{please do not use or repost without permission.}}$
+    $\color{#55C5D3}{\text{please do not}} \color{#2697AA}{\text{use or repost}} \color{#185D70}{\text{without permission.}}$
     <br><br>
-    $\color{#93302c}{\text{check these out for more art stuff}}$
+    $\color{#167080}{\text{check these}} \color{#2697AA}{\text{out for}} \color{#55C5D3}{\text{more art}} \color{#288B9E}{\text{stuff}}$
     <br>
     <a href="https://twitter.com/rvffled">twitter</a>
-    $\color{#93302c}{\text{ㅤﾉㅤ}}$
+    $\color{#55C5D3}{\text{ㅤﾉㅤ}}$
     <a href="https://www.tumblr.com/rvffled">tumblr</a>
   </p>
 </details>
