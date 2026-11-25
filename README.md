@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  $\color{#93302c}{\text{Ruffy or Fishㅤﾉㅤ17}}$
+  $\color{#93302c}{\text{Fishㅤﾉㅤ17}}$
   <br>
   $\color{#93302c}{\text{ewww eww stinky partner}}$
 </p>
