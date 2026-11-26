@@ -17,13 +17,39 @@
   </p>
 </details>
 
+
 <details align="center">
   <summary>$\color{#2697AA}{\text{fandoms}}$</summary>
 
   <p align="center">
     $\color{#167080}{\text{Deltarune, }}\color{#55C5D3}{\text{Undertale, }}\color{#288B9E}{\text{Sonic the Hedgehog}}$
+    <br><br>
+    <sub>$\color{#185D70}{\text{──── know but not in ────}}$</sub>
+    <br><br>
+    $\color{#167080}{\text{Hetalia, }}\color{#2697AA}{\text{Andy's Apple Farm, }}\color{#55C5D3}{\text{BSD, }}\color{#288B9E}{\text{FNAF, }}\color{#185D70}{\text{BATIM}}$
+    <br>
+    $\color{#167080}{\text{Welcome Home, }}\color{#2697AA}{\text{OMORI, }}\color{#55C5D3}{\text{DDLC, }}\color{#288B9E}{\text{Yume Nikki, }}\color{#185D70}{\text{OFF}}$
+    <br>
+    $\color{#167080}{\text{TADC, }}\color{#2697AA}{\text{Murder Drones, }}\color{#55C5D3}{\text{ENA, }}\color{#288B9E}{\text{Eddsworld, }}\color{#185D70}{\text{Homestuck}}$
+    <br>
+    $\color{#167080}{\text{Poppy Playtime, }}\color{#2697AA}{\text{Baldi's Basics, }}\color{#55C5D3}{\text{Amanda the Adventurer}}$
+    <br>
+    $\color{#167080}{\text{Regretevator, }}\color{#2697AA}{\text{Pressure, }}\color{#55C5D3}{\text{Forsaken, }}\color{#288B9E}{\text{Dandy's World, }}\color{#185D70}{\text{Phighting!}}$
+    <br>
+    $\color{#167080}{\text{Cookie Run, }}\color{#2697AA}{\text{Splatoon, }}\color{#55C5D3}{\text{Kirby, }}\color{#288B9E}{\text{Pokemon, }}\color{#185D70}{\text{Animal Crossing}}$
+    <br>
+    $\color{#167080}{\text{Gravity Falls, }}\color{#2697AA}{\text{The Owl House, }}\color{#55C5D3}{\text{Steven Universe, }}\color{#288B9E}{\text{Adventure Time}}$
+    <br>
+    $\color{#167080}{\text{Madoka Magica, }}\color{#2697AA}{\text{Death Note, }}\color{#55C5D3}{\text{MHA, }}\color{#288B9E}{\text{JJK, }}\color{#185D70}{\text{Mob Psycho 100}}$
+    <br>
+    $\color{#167080}{\text{Creepypasta, }}\color{#2697AA}{\text{SCP, }}\color{#55C5D3}{\text{Mandela Catalogue, }}\color{#288B9E}{\text{The Walten Files}}$
+    <br>
+    $\color{#167080}{\text{Vocaloid, }}\color{#2697AA}{\text{Project Sekai, }}\color{#55C5D3}{\text{FNF, }}\color{#288B9E}{\text{Object Shows, }}\color{#185D70}{\text{TF2}}$
+    <br><br>
+    <sub>$\color{#2697AA}{\text{+ a lot more that i can't remember rn}}$</sub>
   </p>
 </details>
+
 
 <p align="center">
   $\color{#167080}{\text{ewww }}\color{#2697AA}{\text{eww }}\color{#55C5D3}{\text{stinky }}\color{#288B9E}{\text{partner}}$
