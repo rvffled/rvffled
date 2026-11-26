@@ -5,5 +5,5 @@
 <br>
 
 <p align="center">
-  $\color{#167080}{\text{wipㅤ}}
+  $\color{#167080}{\text{wipㅤ}}$
 </p>
