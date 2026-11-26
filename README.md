@@ -4,8 +4,28 @@
 </p>
 
 <p align="center">
-  $\color{#167080}{\text{Fishㅤ}} \color{#2697AA}{\text{ﾉㅤ}} \color{#55C5D3}{\text{17}}$
-  <br>
+  $\color{#167080}{\text{Fishㅤ}}\color{#2697AA}{\text{ﾉㅤ}}\color{#55C5D3}{\text{17}}$
+</p>
+
+<details align="center">
+  <summary>$\color{#2697AA}{\text{other names}}$</summary>
+
+  <p align="center">
+    $\color{#167080}{\text{Fish, }}\color{#2697AA}{\text{Ruffy, }}\color{#55C5D3}{\text{Loser, }}\color{#288B9E}{\text{Chris, }}\color{#185D70}{\text{Kirby, }}\color{#167080}{\text{Coffi}}$
+    <br>
+    $\color{#167080}{\text{Rabbid, }}\color{#2697AA}{\text{Chip, }}\color{#55C5D3}{\text{Ram, }}\color{#288B9E}{\text{Doge, }}\color{#185D70}{\text{Expensive, }}\color{#167080}{\text{Val}}$
+  </p>
+</details>
+
+<details align="center">
+  <summary>$\color{#2697AA}{\text{fandoms}}$</summary>
+
+  <p align="center">
+    $\color{#167080}{\text{Deltarune, }}\color{#55C5D3}{\text{Undertale, }}\color{#288B9E}{\text{Sonic the Hedgehog}}$
+  </p>
+</details>
+
+<p align="center">
   $\color{#167080}{\text{ewww }}\color{#2697AA}{\text{eww }}\color{#55C5D3}{\text{stinky }}\color{#288B9E}{\text{partner}}$
 </p>
 
