@@ -6,7 +6,7 @@
 <p align="center">
   $\color{#167080}{\text{Fishㅤ}} \color{#2697AA}{\text{ﾉㅤ}} \color{#55C5D3}{\text{17}}$
   <br>
-  $\color{#167080}{\text{ewww}} \color{#2697AA}{\text{eww}} \color{#55C5D3}{\text{stinky}} \color{#288B9E}{\text{partner}}$
+  $\color{#167080}{\text{ewww }}\color{#2697AA}{\text{eww }}\color{#55C5D3}{\text{stinky }}\color{#288B9E}{\text{partner}}$
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  $\color{#167080}{\text{i accept}} \color{#2697AA}{\text{all frqㅤㅤㅤ}} \color{#55C5D3}{\text{lesbianㅤㅤㅤ}} \color{#288B9E}{\text{tenna}} \color{#185D70}{\text{kin}}$
+  $\color{#167080}{\text{i accept all frqㅤㅤㅤ}}\color{#55C5D3}{\text{lesbian  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ }}\color{#288B9E}{\text{tenna kin}}$
 </p>
 
 <p align="center">
-  $\color{#185D70}{\text{──}} \color{#2697AA}{\text{──}} \color{#55C5D3}{\text{── ୨୧ ──}} \color{#2697AA}{\text{──}} \color{#185D70}{\text{──}}$
+  $\color{#185D70}{\text{──}}\color{#2697AA}{\text{──}}\color{#55C5D3}{\text{── ୨୧ ──}}\color{#2697AA}{\text{──}}\color{#185D70}{\text{──}}$
 </p>
 
 <table align="center">
@@ -29,15 +29,15 @@
 
 <details>
   <summary>
-    $\color{#167080}{\text{INT}} \color{#55C5D3}{\text{+}} \color{#185D70}{\text{DNI}}$
+    $\color{#167080}{\text{INT }}\color{#55C5D3}{\text{+ }}\color{#167080}{\text{DNI}}$
   </summary>
 
   <p align="center">
-    $\color{#167080}{\text{꒰𐔌 INT ﾉ}} \color{#2697AA}{\text{cool people,}} \color{#55C5D3}{\text{15+,}}$
+    $\color{#167080}{\text{꒰𐔌 INT ﾉ }}\color{#2697AA}{\text{cool people, }}\color{#55C5D3}{\text{15+,}}$
     <br>
-    $\color{#55C5D3}{\text{Deltarune,}} \color{#2697AA}{\text{Undertale,}} \color{#185D70}{\text{STH fans}}$
+    $\color{#55C5D3}{\text{Deltarune, }}\color{#2697AA}{\text{Undertale, }}\color{#185D70}{\text{STH fans}}$
     <br><br>
-    $\color{#167080}{\text{꒰𐔌 DNI ﾉ}} \color{#2697AA}{\text{weirdos,}} \color{#55C5D3}{\text{basic DNI criteria,}} \color{#185D70}{\text{14 below}}$
+    $\color{#167080}{\text{꒰𐔌 DNI ﾉ }}\color{#2697AA}{\text{weirdos, }}\color{#55C5D3}{\text{basic DNI criteria, }}\color{#185D70}{\text{14 below}}$
   </p>
 </details>
 
@@ -48,13 +48,13 @@
 
 <details>
   <summary>
-    $\color{#167080}{\text{AW}} \color{#55C5D3}{\text{AR}} \color{#185D70}{\text{DS}}$
+    $\color{#2697AA}{\text{AWARDS}}$
   </summary>
 
   <p align="center">
-    $\color{#167080}{\text{꒰𐔌 PT’s}} \color{#2697AA}{\text{King}} \color{#55C5D3}{\text{Dedede [}}$
+    $\color{#167080}{\text{꒰𐔌 PT’s }}\color{#55C5D3}{\text{King Dedede [}}$
     <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>
-    $\color{#288B9E}{\text{] \& PT’s}} \color{#55C5D3}{\text{Swapton [}}$
+    $\color{#288B9E}{\text{] \& PT’s }}\color{#55C5D3}{\text{Swapton [}}$
     <a href="https://github.com/THE-TEMPIST">@THE-TEMPIST</a>
     $\color{#185D70}{\text{] +}}$
   </p>
@@ -67,15 +67,15 @@
 
 <details>
   <summary>
-    $\color{#167080}{\text{ART}} \color{#55C5D3}{\text{CRED}} \color{#185D70}{\text{ITS}}$
+    $\color{#167080}{\text{ART }}\color{#55C5D3}{\text{CREDITS}}$
   </summary>
 
   <p align="center">
-    $\color{#167080}{\text{꒰𐔌 all artwork}} \color{#2697AA}{\text{on this profile}} \color{#55C5D3}{\text{is drawn}} \color{#288B9E}{\text{by me !}}$
+    $\color{#167080}{\text{꒰𐔌 all artwork }}\color{#2697AA}{\text{on this profile }}\color{#55C5D3}{\text{is drawn }}\color{#288B9E}{\text{by me !}}$
     <br>
-    $\color{#55C5D3}{\text{please do not}} \color{#2697AA}{\text{use or repost}} \color{#185D70}{\text{without permission.}}$
+    $\color{#55C5D3}{\text{please do not }}\color{#2697AA}{\text{use or repost }}\color{#185D70}{\text{without permission.}}$
     <br><br>
-    $\color{#167080}{\text{check these}} \color{#2697AA}{\text{out for}} \color{#55C5D3}{\text{more art}} \color{#288B9E}{\text{stuff}}$
+    $\color{#167080}{\text{check these }}\color{#2697AA}{\text{out for }}\color{#55C5D3}{\text{more art }}\color{#288B9E}{\text{stuff}}$
     <br>
     <a href="https://twitter.com/rvffled">twitter</a>
     $\color{#55C5D3}{\text{ㅤﾉㅤ}}$
