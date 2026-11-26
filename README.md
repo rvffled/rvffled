@@ -17,7 +17,6 @@
   </p>
 </details>
 
-
 <details align="center">
   <summary>$\color{#2697AA}{\text{fandoms}}$</summary>
 
@@ -28,23 +27,59 @@
     <br><br>
     $\color{#167080}{\text{Hetalia, }}\color{#2697AA}{\text{Andy's Apple Farm, }}\color{#55C5D3}{\text{BSD, }}\color{#288B9E}{\text{FNAF, }}\color{#185D70}{\text{BATIM}}$
     <br>
-    $\color{#167080}{\text{Welcome Home, }}\color{#2697AA}{\text{OMORI, }}\color{#55C5D3}{\text{DDLC, }}\color{#288B9E}{\text{Yume Nikki, }}\color{#185D70}{\text{OFF}}$
+    $\color{#167080}{\text{OMORI, }}\color{#2697AA}{\text{Yume Nikki, }}\color{#55C5D3}{\text{OFF, }}\color{#288B9E}{\text{Ib, }}\color{#185D70}{\text{Mad Father}}$
     <br>
-    $\color{#167080}{\text{TADC, }}\color{#2697AA}{\text{Murder Drones, }}\color{#55C5D3}{\text{ENA, }}\color{#288B9E}{\text{Eddsworld, }}\color{#185D70}{\text{Homestuck}}$
+    $\color{#167080}{\text{The Witch's House, }}\color{#2697AA}{\text{Misao, }}\color{#55C5D3}{\text{Ao Oni, }}\color{#288B9E}{\text{The Crooked Man, }}\color{#185D70}{\text{Wadanohara}}$
+    <br>
+    $\color{#167080}{\text{Hello Charlotte, }}\color{#2697AA}{\text{END ROLL, }}\color{#55C5D3}{\text{Pocket Mirror, }}\color{#288B9E}{\text{Your Turn To Die}}$
+    <br>
+    $\color{#167080}{\text{Sally Face, }}\color{#2697AA}{\text{Fran Bow, }}\color{#55C5D3}{\text{Little Misfortune, }}\color{#288B9E}{\text{Little Nightmares, }}\color{#185D70}{\text{DDLC}}$
+    <br>
+    $\color{#167080}{\text{Mouthwashing, }}\color{#2697AA}{\text{INSCRYPTION, }}\color{#55C5D3}{\text{ULTRAKILL, }}\color{#288B9E}{\text{FAITH, }}\color{#185D70}{\text{IMSCARED}}$
+    <br>
+    $\color{#167080}{\text{The Stanley Parable, }}\color{#2697AA}{\text{OneShot, }}\color{#55C5D3}{\text{Everhood, }}\color{#288B9E}{\text{Hylics, }}\color{#185D70}{\text{ENA}}$
+    <br>
+    $\color{#167080}{\text{Pony Island, }}\color{#2697AA}{\text{Who's Lila?, }}\color{#55C5D3}{\text{Milk inside a bag of milk, }}\color{#288B9E}{\text{NEEDY STREAMER OVERLOAD}}$
+    <br>
+    $\color{#167080}{\text{Bugsnax, }}\color{#2697AA}{\text{Hollow Knight, }}\color{#55C5D3}{\text{Rain World, }}\color{#288B9E}{\text{Pizza Tower, }}\color{#185D70}{\text{Antonblast}}$
+    <br>
+    $\color{#167080}{\text{Cuphead, }}\color{#2697AA}{\text{Celeste, }}\color{#55C5D3}{\text{Shovel Knight, }}\color{#288B9E}{\text{A Hat in Time, }}\color{#185D70}{\text{Cult of the Lamb}}$
+    <br>
+    $\color{#167080}{\text{Night in the Woods, }}\color{#2697AA}{\text{Spiritfarer, }}\color{#55C5D3}{\text{Slime Rancher, }}\color{#288B9E}{\text{Stardew Valley}}$
     <br>
     $\color{#167080}{\text{Poppy Playtime, }}\color{#2697AA}{\text{Baldi's Basics, }}\color{#55C5D3}{\text{Amanda the Adventurer}}$
     <br>
+    $\color{#167080}{\text{Shipwrecked 64, }}\color{#2697AA}{\text{KinitoPET, }}\color{#55C5D3}{\text{Buddy Simulator 1984, }}\color{#288B9E}{\text{Bonnie's Bakery}}$
+    <br>
+    $\color{#167080}{\text{Mr. Hopp's Playhouse, }}\color{#2697AA}{\text{Cooking Companions, }}\color{#55C5D3}{\text{Tattletail, }}\color{#288B9E}{\text{Hello Neighbor}}$
+    <br>
+    $\color{#167080}{\text{Welcome Home, }}\color{#2697AA}{\text{The Walten Files, }}\color{#55C5D3}{\text{Mandela Catalogue, }}\color{#288B9E}{\text{Petscop}}$
+    <br>
+    $\color{#167080}{\text{Don't Hug Me I'm Scared, }}\color{#2697AA}{\text{Lacey's Games, }}\color{#55C5D3}{\text{Daisy Brown, }}\color{#288B9E}{\text{Marble Hornets}}$
+    <br>
+    $\color{#167080}{\text{TADC, }}\color{#2697AA}{\text{Murder Drones, }}\color{#55C5D3}{\text{Eddsworld, }}\color{#288B9E}{\text{Homestuck, }}\color{#185D70}{\text{Object Shows}}$
+    <br>
+    $\color{#167080}{\text{Spooky Month, }}\color{#2697AA}{\text{Pico's School, }}\color{#55C5D3}{\text{FNF, }}\color{#288B9E}{\text{Tankmen, }}\color{#185D70}{\text{Salad Fingers}}$
+    <br>
     $\color{#167080}{\text{Regretevator, }}\color{#2697AA}{\text{Pressure, }}\color{#55C5D3}{\text{Forsaken, }}\color{#288B9E}{\text{Dandy's World, }}\color{#185D70}{\text{Phighting!}}$
+    <br>
+    $\color{#167080}{\text{Block Tales, }}\color{#2697AA}{\text{Grace, }}\color{#55C5D3}{\text{Doors, }}\color{#288B9E}{\text{Get a Snack at 4 AM}}$
     <br>
     $\color{#167080}{\text{Cookie Run, }}\color{#2697AA}{\text{Splatoon, }}\color{#55C5D3}{\text{Kirby, }}\color{#288B9E}{\text{Pokemon, }}\color{#185D70}{\text{Animal Crossing}}$
     <br>
     $\color{#167080}{\text{Gravity Falls, }}\color{#2697AA}{\text{The Owl House, }}\color{#55C5D3}{\text{Steven Universe, }}\color{#288B9E}{\text{Adventure Time}}$
     <br>
+    $\color{#167080}{\text{Invader Zim, }}\color{#2697AA}{\text{MLP, }}\color{#55C5D3}{\text{Warrior Cats, }}\color{#288B9E}{\text{Sam and Max, }}\color{#185D70}{\text{Ramshackle}}$
+    <br>
     $\color{#167080}{\text{Madoka Magica, }}\color{#2697AA}{\text{Death Note, }}\color{#55C5D3}{\text{MHA, }}\color{#288B9E}{\text{JJK, }}\color{#185D70}{\text{Mob Psycho 100}}$
     <br>
-    $\color{#167080}{\text{Creepypasta, }}\color{#2697AA}{\text{SCP, }}\color{#55C5D3}{\text{Mandela Catalogue, }}\color{#288B9E}{\text{The Walten Files}}$
+    $\color{#167080}{\text{Danganronpa, }}\color{#2697AA}{\text{Ace Attorney, }}\color{#55C5D3}{\text{Persona, }}\color{#288B9E}{\text{Evangelion, }}\color{#185D70}{\text{Soul Eater}}$
     <br>
-    $\color{#167080}{\text{Vocaloid, }}\color{#2697AA}{\text{Project Sekai, }}\color{#55C5D3}{\text{FNF, }}\color{#288B9E}{\text{Object Shows, }}\color{#185D70}{\text{TF2}}$
+    $\color{#167080}{\text{Creepypasta, }}\color{#2697AA}{\text{SCP, }}\color{#55C5D3}{\text{The Backrooms, }}\color{#288B9E}{\text{Sonic.EXE}}$
+    <br>
+    $\color{#167080}{\text{Vocaloid, }}\color{#2697AA}{\text{UTAU, }}\color{#55C5D3}{\text{Project Sekai, }}\color{#288B9E}{\text{Alien Stage, }}\color{#185D70}{\text{MILGRAM}}$
+    <br>
+    $\color{#167080}{\text{TF2, }}\color{#2697AA}{\text{Half-Life, }}\color{#55C5D3}{\text{Portal, }}\color{#288B9E}{\text{Garry's Mod, }}\color{#185D70}{\text{Minecraft}}$
     <br><br>
     <sub>$\color{#2697AA}{\text{+ a lot more that i can't remember rn}}$</sub>
   </p>
